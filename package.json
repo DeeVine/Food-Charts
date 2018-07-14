@@ -1,0 +1,22 @@
+{
+  "name": "food-charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeeVine/Food-Charts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeeVine/Food-Charts/issues"
+  },
+  "homepage": "https://github.com/DeeVine/Food-Charts#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
